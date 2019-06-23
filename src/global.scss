@@ -25,6 +25,10 @@
     -webkit-animation-duration: 400ms;
     animation-duration: 400ms;
 }
+.animated.slow {
+  -webkit-animation-duration: 2s;
+  animation-duration: 2s;
+}
 @-webkit-keyframes fadeIn {
     from {
       opacity: 0;
